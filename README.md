@@ -1,7 +1,7 @@
 # Dictionary-without-human-name-conflicts
-Dataset of English words that are not used as names.
-Created by removing words contained in database of human names from existing dictionaries.
+Dataset of English words not used as names.
 
+Created by removing words contained in database of human names from existing dictionaries.
 
 
 ## Contents
