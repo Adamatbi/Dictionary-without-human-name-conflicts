@@ -1,6 +1,8 @@
 # Dictionary-without-human-name-conflicts
 Dataset of English words not used as names.
 
+Example conflicts: Clover, Sky, Amber...
+
 Created by removing words contained in database of human names from existing dictionaries.
 
 
